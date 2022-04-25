@@ -1,0 +1,25 @@
+p.bm1 {
+    color: white;
+    font-family: "Arial";
+    border: solid 4px white;
+}
+
+p.bm2 {
+    font: italic small-caps bold 24px/60px Georgia, serif;
+}
+
+p.bm22 {
+    font: italic small-caps bold 24px/60px Georgia, serif;
+}
+
+img.imgbm2 {
+    float: right;
+}
+
+#bm3 {
+    border-radius: 25px;
+    border: 2px solid #f8faf4;
+    padding: 20px; 
+    width: 200px;
+    height: 180px;  
+  }
