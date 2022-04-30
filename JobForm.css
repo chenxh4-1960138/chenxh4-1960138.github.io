@@ -6,6 +6,7 @@ h2 {
     font: 38px Arial, sans-serif;
     color: rgb(82, 80, 80);
     font-weight: bold;
+    text-align: center;
 }
 
 input[type=text] {
@@ -78,21 +79,23 @@ fieldset.d {
 }
 
 legend.Account {
-    font: 23px Arial, sans-serif;
-    
+    font: 26px Arial, sans-serif;
+    font-weight: bold;
 }
 
 legend.PersonalInformation {
-    font: 23px Arial, sans-serif;
-    
+    font: 26px Arial, sans-serif;
+    font-weight: bold;
 }
 
 legend.Availability {
-    font: 23px Arial, sans-serif;
+    font: 26px Arial, sans-serif;
+    font-weight: bold;
 }
 
 legend.PersonalStatement {
-    font: 23px Arial, sans-serif;
+    font: 26px Arial, sans-serif;
+    font-weight: bold;
 }
 
 textarea {
@@ -109,8 +112,8 @@ textarea {
 input[type=submit] {
     background: #016ABC;
     color: #fff;
-    border: 1px solid #eee;
-    border-radius: 30px;
+    border: 3px solid #eee;
+    border-radius: 50px;
     box-shadow: 5px 5px 5px #eee;
     text-shadow: none;
 }
