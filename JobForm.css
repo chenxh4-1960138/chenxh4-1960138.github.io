@@ -1,0 +1,116 @@
+form {
+    background-image: url("13581651291986_.pic.jpg");
+}
+
+h2 {
+    font: 38px Arial, sans-serif;
+    color: rgb(82, 80, 80);
+    font-weight: bold;
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=password] {
+    width: 30%;
+    padding: 7px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+select {
+    width: 50%;
+    padding: 20px 24px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+div.radio {
+    width: 30%;
+    padding: 7px 10px;
+    margin: 8px 0;
+}
+
+div.checkbox {
+    width: 30%;
+    padding: 5px 8px;
+    margin: 8px 0;
+}
+
+input[type=time] {
+    width: 100%;
+    padding: 3px 5px;
+    margin: 3px 0;
+    box-sizing: border-box;
+}
+
+fieldset.a {
+    background-color: whitesmoke;
+    border: none;
+    font-size: 18px;
+    color: rgb(82, 80, 80);
+}
+
+fieldset.b {
+    background-color: whitesmoke;
+    border: none;
+    font-size: 18px;
+    color: rgb(82, 80, 80);
+}
+
+fieldset.c {
+    background-color: whitesmoke;
+    border: none;
+    font-size: 18px;
+    color: rgb(82, 80, 80);
+}
+
+fieldset.d {
+    background-color: whitesmoke;
+    border: none;
+    font-size: 18px;
+    color: rgb(82, 80, 80);
+}
+
+legend.Account {
+    font: 23px Arial, sans-serif;
+    
+}
+
+legend.PersonalInformation {
+    font: 23px Arial, sans-serif;
+    
+}
+
+legend.Availability {
+    font: 23px Arial, sans-serif;
+}
+
+legend.PersonalStatement {
+    font: 23px Arial, sans-serif;
+}
+
+textarea {
+    width: 70%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+input[type=submit] {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+}
