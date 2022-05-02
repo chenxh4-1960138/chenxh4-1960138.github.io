@@ -9,10 +9,10 @@ https://www.tooplate.com/view/2121-wave-cafe
 html { scroll-behavior: smooth; }
 
 body {
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     overflow-x: hidden;
     background-color: #3a3d3d;
 }
@@ -54,7 +54,7 @@ h2 { margin-top: 0; }
     z-index: 1000;
     background-color: rgba(0,0,0,0.5);
     color: white;    
-    padding: 10px;
+    padding: 12px;
 }
 
 .tm-container { padding: 30px; }
@@ -66,7 +66,7 @@ h2 { margin-top: 0; }
 
 .tm-left,
 .tm-right {
-    width: 50%;
+    width: 52%;
 }
 
 .tm-left-inner { position: fixed; }
